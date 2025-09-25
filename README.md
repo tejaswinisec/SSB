@@ -84,7 +84,8 @@ TABULATION
 
 
 
-![Uploading image.png…]()
+<img width="1280" height="810" alt="image" src="https://github.com/user-attachments/assets/f3a9cffe-9f4b-47c1-89ba-b61ee89e8eba" />
+
 
 
 
